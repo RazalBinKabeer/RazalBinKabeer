@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web dev Projects
 - 📫 How to reach me: Instagram @razal_bin_kabeer
-                       Twitter  @RazalKabeer3
+                       Twitter  @razal_kabeer
+                       LinkedIn Razal Kabeer
 
 <!---
 RazalBinKabeer/RazalBinKabeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
