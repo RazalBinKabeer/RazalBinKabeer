@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web dev Projects
 - 📫 How to reach me: Instagram @razal_bin_kabeer
-                       Twitter  @razal_kabeer
+                       Twitter  @razalbinkabeer
                        LinkedIn Razal Kabeer
 
 <!---
