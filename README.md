@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RazalBinKabeer
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web dev Projects
 - 📫 How to reach me: Instagram @razal_bin_kabeer
                        Twitter  @razalbinkabeer
