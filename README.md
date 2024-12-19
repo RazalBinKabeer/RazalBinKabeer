@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @RazalBinKabeer
-- 👀 I’m a Web Development
+- 👀 I’m a Front End Developer
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Web dev Projects
 - 📫 How to reach me: Instagram @razal_bin_kabeer
-                       Twitter  @razalbinkabeer
                        LinkedIn Razal Kabeer
 
 <!---
